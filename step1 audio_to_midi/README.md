@@ -17,3 +17,10 @@ audio-to-midi ./Rec0001.wav -t 120
 
 Andddddd, we got a Rec0001.wav.mid!!
 
+Well, let see the mid file using MidiEditor!
+
+![](./figs/midi_kaf.png)
+
+That's a little bit....
+
+
