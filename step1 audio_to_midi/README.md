@@ -19,7 +19,7 @@ Andddddd, we got a Rec0001.wav.mid!!
 
 Well, let see the mid file using MidiEditor!
 
-![](./figs/midi_kaf.png)
+![](./pics/midi_kaf.PNG)
 
 That's a little bit....
 
